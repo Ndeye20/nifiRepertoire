@@ -70,7 +70,7 @@
             "groupId" : "34775508-d80a-3025-9ee4-d2c0562ddadf",
             "id" : "1585c7f9-09fa-31af-889a-bb20f07ef635",
             "instanceIdentifier" : "cb385249-0183-1000-d31a-0be2c8b32524",
-            "name" : "GetFile",
+            "name" : "GetFiles",
             "type" : "PROCESSOR"
           },
           "zIndex" : 0
@@ -143,11 +143,11 @@
           "identifier" : "1585c7f9-09fa-31af-889a-bb20f07ef635",
           "instanceIdentifier" : "cb385249-0183-1000-d31a-0be2c8b32524",
           "maxBackoffPeriod" : "10 mins",
-          "name" : "GetFile",
+          "name" : "GetFiles",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 592.0,
-            "y" : 368.0
+            "x" : 552.0,
+            "y" : 312.0
           },
           "properties" : {
             "Keep Source File" : "false",
@@ -263,8 +263,8 @@
           "name" : "ValidateCsv",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1240.0,
-            "y" : 408.0
+            "x" : 1176.0,
+            "y" : 304.0
           },
           "properties" : {
             "validate-csv-schema" : "unique(), strlen(5)",

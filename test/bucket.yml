@@ -1,5 +1,5 @@
 flows:
-  4dc136d6-05b9-4d22-afbb-ecf6ca7af2bb: {ver: 1, file: processGroup.snapshot, comments: '',
-    author: anonymous, created: 1665590583147, flowName: processGroup, flowDesc: ''}
+  4dc136d6-05b9-4d22-afbb-ecf6ca7af2bb: {ver: 2, file: processGroup.snapshot, comments: second
+      commit, author: anonymous, created: 1665590773340, flowName: processGroup, flowDesc: ''}
 layoutVer: 1
 bucketId: 0c2367e2-619c-4a25-a772-d9e0f54daf5b
